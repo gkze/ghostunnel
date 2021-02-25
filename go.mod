@@ -21,7 +21,7 @@ require (
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.1 // indirect
 	github.com/mwitkow/go-http-dialer v0.0.0-20161116154839-378f744fb2b8
-	github.com/pires/go-proxyproto v0.1.3
+	github.com/pires/go-proxyproto v0.4.2
 	github.com/prometheus/client_golang v1.7.1
 	github.com/prometheus/common v0.11.1 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0
